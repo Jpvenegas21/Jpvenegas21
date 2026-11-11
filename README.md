@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Juan Pablo Venegas
-
 Ingeniero Comercial titulado de la Universidad del Desarrollo. Diseño y construyo herramientas de datos, automatización e IA para procesos de negocio, desde el levantamiento con el usuario hasta dejarlas funcionando en producción.
 
 ## Redes
