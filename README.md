@@ -34,12 +34,12 @@ Ingeniero Comercial titulado de la Universidad del Desarrollo. Diseño y constru
 ## Proyectos
 
 ### Plataforma de gestión de propiedades (2026)
-Plataforma para las propiedades que arrienda mi familia: pagos, contratos, garantías, mantenciones, siniestros y arrendatarios. Tiene un número de WhatsApp conectado a un agente en el backend que responde según quién pregunta: el propietario accede a toda la información y cada arrendatario solo a lo suyo. En uso desde julio de 2026 con 20 propiedades.
+Plataforma para las propiedades que arrienda mi familia: pagos, contratos, garantías, mantenciones, siniestros y arrendatarios. Tiene un número de WhatsApp conectado a un agente en el backend que responde según quién pregunta: el propietario accede a toda la información y cada arrendatario solo a lo suyo. En uso desde julio de 2026.
 
 `Django` `LangChain` `OpenAI API` `WhatsApp API`
 
 ### Preguntas del público, InfraChile 2026
-Herramienta para el Consejo de Políticas de Infraestructura. El público envía preguntas escaneando un QR, la IA las clasifica y el moderador elige cuáles lanzar; un personaje animado en 3D las lee en voz alta. Desplegada en Render, con más de 300 tests.
+Herramienta para el Consejo de Políticas de Infraestructura. El público envía preguntas escaneando un QR, la IA las clasifica y el moderador elige cuáles lanzar; un personaje animado en 3D las lee en voz alta.
 
 `Django` `LangGraph` `ElevenLabs` `Render`
 
@@ -49,7 +49,7 @@ Proyecto en equipo del Diplomado en Innovación Interdisciplinaria (UDD), donde 
 `Django` `LangChain` `Claude API` `OpenAI API` `Playwright`
 
 ### BRASA: alerta temprana de plagas en el maíz (2026)
-Ganador del BCG Platinion Hackathon 2026 en equipo de cinco: primer lugar en Chile y primer lugar regional compartido con São Paulo. BRASA busca desde el satélite los parches verdes donde sobrevive el gusano cogollero entre temporadas, para avisar a los agricultores antes del brote. Mi parte fue investigar el problema y presentarlo en el pitch.
+Ganador del BCG Platinion Hackathon 2026 en equipo de cinco: primer lugar en Chile y primer lugar regional compartido con São Paulo. BRASA busca desde el satélite los parches verdes donde sobrevive el gusano cogollero entre temporadas, para avisar a los agricultores antes del brote.
 
 `Imágenes satelitales` `Datos climáticos`
 
@@ -59,7 +59,6 @@ Ganador del BCG Platinion Hackathon 2026 en equipo de cinco: primer lugar en Chi
 - Levanté el proceso comercial y operativo de una clínica estética y lo traduje en requerimientos.
 - Diseñé una base de datos que sigue a cada paciente desde el primer contacto hasta la cirugía.
 - Desarrollé en Python un proceso que extrae los datos de la plataforma de gestión por API y los carga a diario.
-- Desarrollé un proceso con IA que detecta si el paciente aceptó el presupuesto o envió sus exámenes, validado con 386 pruebas automáticas.
 
 `Python` `APIs REST` `GitHub Actions`
 
