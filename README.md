@@ -33,7 +33,7 @@ Ingeniero Comercial titulado de la Universidad del Desarrollo. Diseño y constru
 
 ## Proyectos
 
-### Plataforma de gestión de arriendos (2026)
+### Plataforma de gestión de propiedades (2026)
 Plataforma para las propiedades que arrienda mi familia: pagos, contratos, garantías, mantenciones, siniestros y arrendatarios. Tiene un número de WhatsApp conectado a un agente en el backend que responde según quién pregunta: el propietario accede a toda la información y cada arrendatario solo a lo suyo. En uso desde julio de 2026 con 20 propiedades.
 
 `Django` `LangChain` `OpenAI API` `WhatsApp API`
